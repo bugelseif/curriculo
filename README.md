@@ -8,4 +8,4 @@
 
 ## Licença
 
-* Este projeto é feito sobre a licença do MIT, para mais informações sobre a sua possível utilização, modificação e compartilhamento, [clique aqui](LICENSE)..
+* Este projeto é feito sobre a licença do MIT, para mais informações sobre a sua possível utilização, modificação e compartilhamento, [clique aqui](LICENSE).
